@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1670292505 source:d:\users\nash\documents\c++\cpsc3620_project\main.cpp
+	"Board_Tile.h"
+	"Sliding_Solver.h"
+	<iostream>
+
+1670302676 source:d:\users\nash\documents\c++\cpsc3620_project\board_tile.cpp
+	"Board_Tile.h"
+	<string>
+	<iostream>
+	<vector>
+	<cmath>
+
+1670302676 d:\users\nash\documents\c++\cpsc3620_project\board_tile.h
+	<string>
+	<vector>
+
+1670302676 d:\users\nash\documents\c++\cpsc3620_project\sliding_solver.h
+	<queue>
+	<string>
+	"Board_Tile.h"
+
+1670303873 source:d:\users\nash\documents\c++\cpsc3620_project\sliding_solver.cpp
+	"Sliding_Solver.h"
+	"Board_Tile.h"
+	<string>
+	<iostream>
+	<vector>
+
